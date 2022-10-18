@@ -1,0 +1,3 @@
+Modificaremos un poco el archivo de texto
+para que al volver a sincronizarlo a la inversa es decir bajarlo del remoto al local 
+se vean reflejados los cambios.
